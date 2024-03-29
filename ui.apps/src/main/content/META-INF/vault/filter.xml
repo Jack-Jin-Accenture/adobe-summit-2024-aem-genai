@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/acngenai/authorui"/>
+    <filter root="/apps/acngenai/clientlibs"/>
+    <filter root="/apps/acngenai/components"/>
+    <filter root="/apps/acngenai/i18n"/>
+    <filter root="/apps/acngenai/pageauthorui"/>
+</workspaceFilter>
