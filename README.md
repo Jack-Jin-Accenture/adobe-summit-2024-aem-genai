@@ -23,3 +23,5 @@ then install this project
 If you have an existing project, feel free to add this code to the other project.
 
 For interest in Accenture's services on this capability please email aemgenaiframework@accenture.com
+
+We do have a custom license for this from the Accenture Legal Team, please see LICENSE
